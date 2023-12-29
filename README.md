@@ -1,3 +1,5 @@
+![TTS](https://github.com/C-Logesh-Perumal-29/C_LP-NLP-Project/assets/125385633/afc1bcaa-6edf-4b2f-b8f2-8bf743626148)
+
 # Text to Speech :
 
 ## Overview
