@@ -38,6 +38,10 @@
 
   - Access the application by opening a web browser and navigating to the provided URL (typically http://localhost:8501).
 
-## Credits:
+## Functionality Spotlight
+
+  ![Text to Speech](https://github.com/C-Logesh-Perumal-29/C_LP-NLP-Project/assets/125385633/974e6240-abee-4104-8864-843e5ef7bb3d)
+
+## Credits
 
   > 👉 ©️ **Credits** goes to the **owner** of `Images`, _Thank You_ for all **Creaters**.🤝...
